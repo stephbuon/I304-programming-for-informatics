@@ -1,1 +1,1 @@
-# I304-programming-for-informatics
+# I304 Programming for Informatics
