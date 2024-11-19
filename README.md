@@ -11,4 +11,4 @@ Email:
 Phone: 
 
 
-Dr. Charles R. Severance’s __Python for Everybody__, accessible as a [PDF](https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf) or [online](https://www.py4e.com/lessons).
+Dr. Charles R. Severance’s _Python for Everybody_, accessible as a [PDF](https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf) or [online](https://www.py4e.com/lessons).
